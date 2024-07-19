@@ -76,7 +76,8 @@ html {
   .project-container {
     display: flex;
     max-width: 100%;
-    overflow: hidden;
+    /*overflow: hidden; */
+    overflow-x:auto;
     padding: 0 10px;
     position: relative;
     margin: 0 auto;
